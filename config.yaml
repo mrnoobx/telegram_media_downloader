@@ -1,7 +1,7 @@
-api_hash: your_api_hash
-api_id: your_api_id
-chat:
-- chat_id: telegram_chat_id
+api_hash: 266a897e11f3872392f16a43e226c902
+api_id: 24903318
+chat: 6575679459
+- chat_id: 
   last_read_message_id: 0
 file_formats:
   audio:
